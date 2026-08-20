@@ -1,6 +1,6 @@
 class Employee:
     def calculate_salary(self):
-        print("Employee salary is calculated")
+        print("Employee salary calculated")
 class Manager(Employee):
     def calculate_salary(self):
         print("Manager salary: ₹80,000")
