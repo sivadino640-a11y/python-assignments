@@ -1,12 +1,12 @@
 class upipayement:
     def pay(self):
-        return "Paying through UPI"
+        return "Paying UPI"
 class creditcardpayment:
     def pay(self):
-        return "Paying through Credit Card"
+        return "Paying Credit Card"
 class cashpayment:
     def pay(self):
-        return "Paying through Cash"
+        return "Paying Cash"
 upi = upipayement()
 creditcard = creditcardpayment()
 cash = cashpayment()

@@ -1,12 +1,12 @@
 class bird:
     def move(self):
-        return "Flying in the sky"
+        return "Flying sky"
 class dog:
     def move(self):
-        return "Running on the ground"
+        return "Running ground"
 class fish:
     def move(self):
-        return "Swimming in the water"
+        return "Swimming water"
 bird = bird()
 dog = dog()
 fish = fish()

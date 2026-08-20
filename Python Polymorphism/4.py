@@ -11,6 +11,6 @@ class teacher:
     def display(self):
         print(f"Name: {self.name}, Subject: {self.subject}")
 student1 = student("shiva", 20)
-teacher1 = teacher("vivek", "Math")
+teacher1 = teacher("vivek", "Maths")
 student1.display()
 teacher1.display()

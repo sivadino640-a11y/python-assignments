@@ -1,12 +1,12 @@
 class Car:
     def start(self):
-        return "Car is starting"
+        return "Car starting"
 class Bike:
     def start(self):
-        return "Bike is starting"
+        return "Bike starting"
 class Bus:
     def start(self):
-        return "Bus is starting"
+        return "Bus starting"
 car = Car()
 bike = Bike()
 bus = Bus()

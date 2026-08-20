@@ -1,12 +1,12 @@
 class pdf:
     def read_pdf(self):
-        return "Reading PDF file"
+        return "Reading PDF"
 class word:
     def read_word(self):
-        return "Reading Word file"
+        return "Reading Word"
 class excel:
     def read_excel(self):
-        return "Reading Excel file"
+        return "Reading Excel"
 pdf = pdf()
 word = word()
 excel = excel()
